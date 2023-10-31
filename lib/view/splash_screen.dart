@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mvvm_tutorial/data/responses/app_exception.dart';
+import 'package:mvvm_tutorial/data/app_exception.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
